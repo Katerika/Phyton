@@ -1,0 +1,5 @@
+print(f'And = {str(5 & 6)}')
+print(f'Or = {str(5 | 6)}')
+print(f'Xor = {str(5 ^ 6)}')
+print (f'5 shift right = {str(5 >> 2)}') 
+print (f'5 shift left = {str(5 << 2)}')
